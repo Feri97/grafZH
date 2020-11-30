@@ -1,0 +1,10 @@
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.csprojAssemblyReference.cache
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.Properties.Resources.resources
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.csproj.GenerateResource.cache
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.csproj.CoreCompileInputs.cache
+C:\Users\Feri\source\repos\graf_zh\graf_zh\bin\Debug\graf_zh.exe.config
+C:\Users\Feri\source\repos\graf_zh\graf_zh\bin\Debug\graf_zh.exe
+C:\Users\Feri\source\repos\graf_zh\graf_zh\bin\Debug\graf_zh.pdb
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.Form1.resources
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.exe
+C:\Users\Feri\source\repos\graf_zh\graf_zh\obj\Debug\graf_zh.pdb
